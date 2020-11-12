@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46ea44e4-f99d-44be-8f60-df5b7a022d07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jW8oZ5fsBvWvmEGVlHold7TRdi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="C:\Users\sadik\WebstormProjects\untitled\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (untitled)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (untitled)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46ea44e4-f99d-44be-8f60-df5b7a022d07" name="Default Changelist" comment="" />
+      <created>1603908663267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603908663267</updated>
+      <workItem from="1603908664342" duration="9242000" />
+      <workItem from="1604262428229" duration="5151000" />
+      <workItem from="1605124559548" duration="979000" />
+      <workItem from="1605188574519" duration="3785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1605215554483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605215554483" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1605215554483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605215554483" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1605215554482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605215554482" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1605215554483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605215554483" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1604066689833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604066689833" />
+  </component>
+</project>
